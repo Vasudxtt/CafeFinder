@@ -4,7 +4,7 @@
 
 *find your perfect cup — anywhere on earth*
 
-[live demo](https://cafefindr.netlify.app) &nbsp;·&nbsp; [report bug](https://github.com/vasudxtt/cafefindr/issues) &nbsp;·&nbsp; [source](https://github.com/vasudxtt/cafefindr)
+[live demo](https://cafefindr.netlify.app) &nbsp;·&nbsp; [report bug](https://github.com/vasudxtt/cafefindr/issues) &nbsp;·&nbsp; [source](https://github.com/vasudxtt/cafefinder)
 
 </div>
 
